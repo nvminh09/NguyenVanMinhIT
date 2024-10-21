@@ -110,12 +110,12 @@ a {
   gap: 2rem;
 }
 .profile_profileImg {
-  max-width: 200px;
+  max-width: 400px;
 }
 .profile_name_firstName {
   color: rgb(9, 27, 183);
-  font-weight: 200;
-  font-size: clamp(2rem, 8vw, 4rem);
+  font-weight: 100;
+  font-size: 3rem;
   text-transform: uppercase;
   display: block;
   margin-bottom: -0.8rem;
