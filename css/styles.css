@@ -178,6 +178,15 @@ a {
 .awards_item {
   margin-top: 2rem;
 }
+/* Targets */
+.targets_item {
+  margin-top: 2rem;
+}
+.target_list {
+  margin-top: 1rem;
+  margin-left: 2rem;
+  line-height: 2;
+}
 /* Interest */
 .interest_items {
   margin-top: 2rem;
