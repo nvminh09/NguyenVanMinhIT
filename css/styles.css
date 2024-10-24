@@ -111,6 +111,7 @@ a {
 }
 .profile_profileImg {
   max-width: 400px;
+  scale: 1;
 }
 .profile_name_firstName {
   color: rgb(9, 27, 183);
