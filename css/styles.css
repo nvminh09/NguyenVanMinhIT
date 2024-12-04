@@ -41,7 +41,7 @@ a {
 }
 .item_preTitle {
   font-size: 1.4rem;
-  color: var(--text-color);
+  color: brown;
   font-weight: 300;
 }
 .item_title {
@@ -54,6 +54,7 @@ a {
   font-size: 1.4rem;
   color: var(--text-color);
   font-weight: 400;
+  margin-bottom: 1.0rem;
 }
 /* layouts */
 .container {
@@ -185,7 +186,6 @@ a {
 }
 .target_list {
   margin-top: 1rem;
-  margin-left: 2rem;
   line-height: 2;
 }
 /* Interest */
